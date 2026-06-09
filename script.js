@@ -78,7 +78,7 @@ async function loadProfile() {
         const data = await response.json();
         
         // Проверить наличие необходимых полей
-        if (!data.user_id || !data.username || data.email === undefined) {
+        if (!data.user_id || !data.name || data.email === undefined) {
             throw new Error('Неверный формат ответа от сервера');
         }
         
@@ -95,7 +95,7 @@ async function loadProfile() {
 // ===== Display Profile =====
 function displayProfile(data) {
     // Очистить и заполнить поля
-    usernameDisplay.textContent = data.username || 'Неизвестно';
+    usernameDisplay.textContent = data.name || 'Неизвестно';
     userIdDisplay.textContent = data.user_id;
     emailDisplay.textContent = data.email || 'Не указана';
     
