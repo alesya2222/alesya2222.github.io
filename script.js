@@ -2,7 +2,7 @@
 const CONFIG = {
     // ВАЖНО: Измените этот адрес на ваш ngrok адрес или production API
     // Пример: https://abc123.ngrok.io
-    API_BASE_URL: 'https://geological-encourages-warm-muslim.trycloudflare.com',
+    API_BASE_URL: ' https://walking-perth-niagara-gba.trycloudflare.com ',
     
     // Endpoint для получения профиля
     // Ожидается ответ: { user_id, username, email }
