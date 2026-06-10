@@ -644,7 +644,7 @@
 
 // ===== Configuration =====
 const CONFIG = {
-    API_BASE_URL: 'hhttps://ribbon-ada-animated-dog.trycloudflare.com  ',
+    API_BASE_URL: 'https://ribbon-ada-animated-dog.trycloudflare.com',
     PROFILE_ENDPOINT: '/api/profile'
 };
 
