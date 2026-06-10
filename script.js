@@ -222,7 +222,7 @@
 
 // ===== Configuration =====
 const CONFIG = {
-    API_BASE_URL: 'https://squealing-blouse-hacker.ngrok-free.dev',
+    API_BASE_URL: 'https://geological-encourages-warm-muslim.trycloudflare.com/',
     PROFILE_ENDPOINT: '/api/profile'
 };
 
