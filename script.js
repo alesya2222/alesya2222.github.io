@@ -644,7 +644,7 @@
 
 // ===== Configuration =====
 const CONFIG = {
-    API_BASE_URL: 'https://void-skilled-announcements-msie.trycloudflare.com',
+    API_BASE_URL: 'https://museum-monroe-monday-specifically.trycloudflare.com',
     PROFILE_ENDPOINT: '/api/profile'
 };
 
