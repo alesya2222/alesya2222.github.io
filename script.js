@@ -644,7 +644,7 @@
 
 // ===== Configuration =====
 const CONFIG = {
-    API_BASE_URL: ' https://sensitivity-furniture-worker-tabs.trycloudflare.com ',
+    API_BASE_URL: 'https://void-skilled-announcements-msie.trycloudflare.com',
     PROFILE_ENDPOINT: '/api/profile'
 };
 
