@@ -644,7 +644,7 @@
 
 // ===== Configuration =====
 const CONFIG = {
-    API_BASE_URL: 'https://museum-monroe-monday-specifically.trycloudflare.com',
+    API_BASE_URL: 'https://byte-slim-wheels-occurring.trycloudflare.com',
     PROFILE_ENDPOINT: '/api/profile'
 };
 
