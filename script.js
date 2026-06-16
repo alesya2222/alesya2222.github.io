@@ -644,7 +644,7 @@
 
 // ===== Configuration =====
 const CONFIG = {
-    API_BASE_URL: 'https://lancaster-bless-sequence-logic.trycloudflare.com',
+    API_BASE_URL: 'https://privilege-generation-syndication-adoption.trycloudflare.com',
     PROFILE_ENDPOINT: '/api/profile'
 };
 
