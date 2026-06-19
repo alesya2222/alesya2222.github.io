@@ -188,7 +188,7 @@
 
 // ===== Configuration =====
 const CONFIG = {
-    API_BASE_URL: 'https://a47ad73b895925.lhr.life',
+    API_BASE_URL: 'https://cea9ba584531ed.lhr.life',
     PROFILE_ENDPOINT: '/api/profile'
 };
 
