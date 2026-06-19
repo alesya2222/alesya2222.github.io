@@ -644,7 +644,7 @@
 
 // ===== Configuration =====
 const CONFIG = {
-    API_BASE_URL: 'https://privilege-generation-syndication-adoption.trycloudflare.com',
+    API_BASE_URL: 'https://and-gratuit-about-consultants.trycloudflare.com',
     PROFILE_ENDPOINT: '/api/profile'
 };
 
