@@ -644,7 +644,7 @@
 
 // ===== Configuration =====
 const CONFIG = {
-    API_BASE_URL: 'https://and-gratuit-about-consultants.trycloudflare.com',
+    API_BASE_URL: 'https://a47ad73b895925.lhr.life',
     PROFILE_ENDPOINT: '/api/profile'
 };
 
